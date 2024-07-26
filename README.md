@@ -1,2 +1,2 @@
-# LaunchWebsite
-Showcases my resume, a simple background and what programs I am currently participating in.
+# New-Personalized-Website
+This program is a new personalized website using HTML, CSS, and JSS
